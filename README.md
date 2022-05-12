@@ -1,7 +1,7 @@
 # 💼 PORTFOLIO OF DIMMAZZ
 
 **Junior Front-end developer.** 
-[***View portfolio***](https://dimmazz.github.io/portfolio/)
+[***View portfolio***](https://dimmazz.github.io/SadPortfolio/)
 
 # My stack:
 
